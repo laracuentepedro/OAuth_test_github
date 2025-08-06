@@ -170,7 +170,3 @@ This uses `nodemon` to automatically restart the server when files change.
 ## 🤝 Contributing
 
 Feel free to submit issues and enhancement requests!
-
-## 📄 License
-
-This project is licensed under the ISC License.
